@@ -1,1 +1,6 @@
 streamlit
+torch
+nltk
+psycopg2-binary
+scikit-learn
+numpy
